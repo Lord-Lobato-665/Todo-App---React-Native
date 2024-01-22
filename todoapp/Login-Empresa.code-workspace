@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../Login-Empresa"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Login-Empresa",
+		"liveServer.settings.port": 5501
+	}
+}
